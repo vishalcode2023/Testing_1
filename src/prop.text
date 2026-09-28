@@ -1,0 +1,10 @@
+object -> {
+
+    key : value 
+    name :"vishal"
+}
+
+
+<h2>{name}</h2>
+
+const employee = {}  => object ,{}

@@ -1,0 +1,7 @@
+context three types
+
+createContext()   -> Golbal data create (data) done 
+
+Provider   -> all components sharing (share)
+
+useContext() -> useing the data from the createContext() means gobal data  (access)
